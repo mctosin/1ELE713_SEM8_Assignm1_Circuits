@@ -1,6 +1,6 @@
 # 1ELE713_SEM8_Assignm1_Circuits
 
-Lista de exercícios no arquivo pdf neste repositório.
+Lista de exercícios no arquivo 1ELE713-Sem8-Assignm1-ElectronicCircuits-Lista1.pdf neste repositório.
 
 Observações:
 
