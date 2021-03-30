@@ -1,6 +1,6 @@
-# 1ELE713_SEM7_Assignm2_MassSpringCoupledPendulum_Lab
+# 1ELE713_SEM8_Assignm1_Circuits
 
-Laboratório para ser desenvoldido no MatLab. A descrição do problema e o procedimento encontram-se no roteiro neste repositório.
+Lista de exercícios no arquivo pdf neste repositório.
 
 Observações:
 
